@@ -1,2 +1,2 @@
-A simple todolist hosted on Netlify.
-https://loving-ptolemy-086c81.netlify.app/
+A simple todolist hosted on <a href="https://loving-ptolemy-086c81.netlify.app/">Netlify></a> <br />
+
