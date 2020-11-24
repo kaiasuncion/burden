@@ -45,7 +45,7 @@ export default {
     }
   },
 
-  data() {
+  setup() {
     const newTodo = ref('');
     const todos = ref([]);
 
