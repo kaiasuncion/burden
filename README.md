@@ -1,2 +1,2 @@
-A simple todo list hosted on <a href="https://loving-ptolemy-086c81.netlify.app/">Netlify</a> <br />
-
+# Burden
+A simple todo list made with Vue 3 hosted on [Netlify](https://burden.netlify.app/) utilizing local storage.
